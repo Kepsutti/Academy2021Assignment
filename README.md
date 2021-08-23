@@ -1,6 +1,6 @@
 # Academy2021Assignment
 
-Gameplay features
+## Gameplay features
 
 At its current state the game seems to have little incentive to make players feel any sense of hurry, which might have the effect of stalling the gamplay and making it feel slow if there's nothing worth taking risks for instead of stopping to wait for the next color opening.
 
@@ -13,8 +13,7 @@ I would also personally feel more accomplised if the height that I've climbed al
 I also got this stupid idea that you could play locally with a friend on the same device, with the same ball, and each player can only tap their side of the screen, and the dot jumps in turns - so if one player tries to jump twice in a row only the first one would register until the other player has jumped first. But this idea mostly just feels like a great way to ruin friendships. I have no idea if it would be fun, but at least it would be a relatively easy mechanic to add for testing.
 
 
-
-Prototype implementation
+## Prototype implementation
 
 I decided to work with fewer scripts that handle more functions at the same time, though I get the feeling it might be wiser to make more clear divisions in terms of responsibilities per script by dividing them more. The scripts are relatively short but already started to feel like I need to search for the function I'm looking to edit.
 
